@@ -1,0 +1,183 @@
+{
+  "documents": [
+    {
+      "id": "doc_acme_alice_1",
+      "source_id": "TechNews",
+      "title": "Alice Smith Appointed CEO of Acme Robotics",
+      "doc_time": "2015-01-15",
+      "text": "Acme Robotics was founded in 2014 in Boston. Alice Smith was appointed CEO of Acme Robotics in January 2015. She previously led research at MIT."
+    },
+    {
+      "id": "doc_acme_alice_2",
+      "source_id": "AcmePress",
+      "title": "Acme Corporate Update 2016",
+      "doc_time": "2016-06-01",
+      "text": "Acme Robotics is headquartered in Boston. Alice Smith is the CEO of Acme Robotics, guiding its autonomous warehouse solutions."
+    },
+    {
+      "id": "doc_acme_bob_1",
+      "source_id": "RoboDaily",
+      "title": "Leadership Transition at Acme Robotics",
+      "doc_time": "2019-01-10",
+      "text": "Alice Smith served until January 2019. Bob Johnson became CEO of Acme Robotics in January 2019, stepping in to scale manufacturing."
+    },
+    {
+      "id": "doc_acme_bob_2",
+      "source_id": "IndustryWire",
+      "title": "Acme Robotics Expands Fleet",
+      "doc_time": "2020-04-12",
+      "text": "Under the leadership of Bob Johnson, CEO of Acme Robotics, the company expanded operations across North America."
+    },
+    {
+      "id": "doc_acme_carol_1",
+      "source_id": "TechChronicle",
+      "title": "Carol Davis Takes Helm at Acme",
+      "doc_time": "2023-01-05",
+      "text": "Bob Johnson stepped down in January 2023. Carol Davis became the CEO of Acme Robotics in January 2023. She previously served as COO."
+    },
+    {
+      "id": "doc_acme_carol_2",
+      "source_id": "PressWire",
+      "title": "Acme Robotics 2024 Vision",
+      "doc_time": "2024-02-01",
+      "text": "Carol Davis is the CEO of Acme Robotics. The company announced its new generative AI navigation platform for humanoid robots."
+    },
+    {
+      "id": "doc_acme_dan_rumor",
+      "source_id": "TechRumorsBlog",
+      "title": "Executive Shakeup Rumor at Acme",
+      "doc_time": "2021-08-15",
+      "text": "Anonymous insiders claim that Dan Pham is the CEO of Acme Robotics, taking over executive duties during a closed board meeting in August 2021."
+    },
+    {
+      "id": "doc_zentech_seattle",
+      "source_id": "SourceAlpha",
+      "title": "Zentech Cloud Opens New Facility",
+      "doc_time": "2020-03-01",
+      "text": "Zentech was established in 2018. Zentech is headquartered in Seattle, where it operates its main enterprise data center."
+    },
+    {
+      "id": "doc_zentech_austin",
+      "source_id": "SourceBeta",
+      "title": "Zentech Corporate Profile",
+      "doc_time": "2020-05-15",
+      "text": "Zentech is headquartered in Austin. The cloud security provider registered its official headquarters in Texas in early 2020."
+    },
+    {
+      "id": "doc_acme_board_1",
+      "source_id": "BoardReview",
+      "title": "Elena Rostova Joins Acme Governance",
+      "doc_time": "2018-05-20",
+      "text": "Elena Rostova is a board member of Acme Robotics since May 2018. She brings deep financial expertise."
+    },
+    {
+      "id": "doc_acme_board_2",
+      "source_id": "TechBoardWatch",
+      "title": "Acme Robotics Expands Board of Directors",
+      "doc_time": "2020-09-10",
+      "text": "Marcus Vance is a board member of Acme Robotics, appointed in September 2020 to advise on robotics supply chains."
+    },
+    {
+      "id": "doc_acme_board_3",
+      "source_id": "RoboticsToday",
+      "title": "Sophia Lin Named to Acme Robotics Board",
+      "doc_time": "2021-11-04",
+      "text": "Sophia Lin is a board member of Acme Robotics since November 2021. She currently directs AI ethics initiatives."
+    },
+    {
+      "id": "doc_lumina_rev1",
+      "source_id": "WikipediaLumina",
+      "title": "City of Lumina - Revision 2015",
+      "doc_time": "2015-02-01",
+      "text": "Lumina is a municipality. Arthur Pendelton is the mayor of Lumina since 2015. Lumina has a population of 50000."
+    },
+    {
+      "id": "doc_lumina_rev2",
+      "source_id": "WikipediaLumina",
+      "title": "City of Lumina - Revision 2018",
+      "doc_time": "2018-04-10",
+      "text": "Lumina is a growing municipality. Beatrice Sterling is the mayor of Lumina since 2018. Lumina has a population of 65000."
+    },
+    {
+      "id": "doc_lumina_wiki",
+      "source_id": "WikipediaLumina",
+      "title": "City of Lumina - Main Article",
+      "doc_time": "2022-03-01",
+      "text": "Lumina is a coastal municipality. Charles Wu is the mayor of Lumina, taking office in 2022. Lumina has a population of 80000."
+    },
+    {
+      "id": "doc_orbitdb_v1",
+      "source_id": "OrbitDocsV1",
+      "title": "OrbitDB Version 1.0 Release Notes",
+      "doc_time": "2018-03-10",
+      "text": "OrbitDB 1.0 is released. OrbitDB uses default port 5432. OrbitDB supports maximum connections 100."
+    },
+    {
+      "id": "doc_orbitdb_v2",
+      "source_id": "OrbitDocsV2",
+      "title": "OrbitDB Version 2.0 Upgrade Guide",
+      "doc_time": "2021-06-15",
+      "text": "OrbitDB 2.0 changes network defaults. OrbitDB uses default port 7474. OrbitDB supports maximum connections 500."
+    },
+    {
+      "id": "doc_orbitdb_v3",
+      "source_id": "OrbitDocsV3",
+      "title": "OrbitDB Version 3.0 Architecture",
+      "doc_time": "2024-01-20",
+      "text": "OrbitDB 3.0 offers high concurrency. OrbitDB uses default port 8080. OrbitDB supports maximum connections 2000."
+    }
+  ],
+  "revisions": {
+    "doc_lumina_rev1": [
+      {
+        "rev_id": "lumina_rev_1",
+        "timestamp": "2015-02-01",
+        "text": "Lumina is a municipality. Arthur Pendelton is the mayor of Lumina since 2015. Lumina has a population of 50000."
+      },
+      {
+        "rev_id": "lumina_rev_2",
+        "timestamp": "2018-04-10",
+        "text": "Lumina is a growing municipality. Beatrice Sterling is the mayor of Lumina since 2018. Lumina has a population of 65000."
+      },
+      {
+        "rev_id": "lumina_rev_3",
+        "timestamp": "2022-03-01",
+        "text": "Lumina is a coastal municipality. Charles Wu is the mayor of Lumina, taking office in 2022. Lumina has a population of 80000."
+      }
+    ],
+    "doc_lumina_rev2": [
+      {
+        "rev_id": "lumina_rev_1",
+        "timestamp": "2015-02-01",
+        "text": "Lumina is a municipality. Arthur Pendelton is the mayor of Lumina since 2015. Lumina has a population of 50000."
+      },
+      {
+        "rev_id": "lumina_rev_2",
+        "timestamp": "2018-04-10",
+        "text": "Lumina is a growing municipality. Beatrice Sterling is the mayor of Lumina since 2018. Lumina has a population of 65000."
+      },
+      {
+        "rev_id": "lumina_rev_3",
+        "timestamp": "2022-03-01",
+        "text": "Lumina is a coastal municipality. Charles Wu is the mayor of Lumina, taking office in 2022. Lumina has a population of 80000."
+      }
+    ],
+    "doc_lumina_wiki": [
+      {
+        "rev_id": "lumina_rev_1",
+        "timestamp": "2015-02-01",
+        "text": "Lumina is a municipality. Arthur Pendelton is the mayor of Lumina since 2015. Lumina has a population of 50000."
+      },
+      {
+        "rev_id": "lumina_rev_2",
+        "timestamp": "2018-04-10",
+        "text": "Lumina is a growing municipality. Beatrice Sterling is the mayor of Lumina since 2018. Lumina has a population of 65000."
+      },
+      {
+        "rev_id": "lumina_rev_3",
+        "timestamp": "2022-03-01",
+        "text": "Lumina is a coastal municipality. Charles Wu is the mayor of Lumina, taking office in 2022. Lumina has a population of 80000."
+      }
+    ]
+  }
+}

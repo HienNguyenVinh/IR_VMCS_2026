@@ -1,0 +1,115 @@
+{
+  "predicates": {
+    "chiefExecutiveOfficer": {
+      "aliases": [
+        "is the CEO of",
+        "ceo",
+        "leads",
+        "chief executive officer",
+        "chief executive",
+        "head of company"
+      ],
+      "subject_type": "ORGANIZATION",
+      "object_type": "PERSON",
+      "cardinality": "functional"
+    },
+    "headquarters": {
+      "aliases": [
+        "is headquartered in",
+        "headquarters in",
+        "based in",
+        "head office located in"
+      ],
+      "subject_type": "ORGANIZATION",
+      "object_type": "LOCATION",
+      "cardinality": "functional"
+    },
+    "foundedIn": {
+      "aliases": [
+        "was founded in",
+        "founded in",
+        "established in",
+        "started in"
+      ],
+      "subject_type": "ORGANIZATION",
+      "object_type": "DATE",
+      "cardinality": "functional"
+    },
+    "boardMember": {
+      "aliases": [
+        "is a board member of",
+        "board member",
+        "director",
+        "serves on the board of"
+      ],
+      "subject_type": "ORGANIZATION",
+      "object_type": "PERSON",
+      "cardinality": "multi"
+    },
+    "acquired": {
+      "aliases": [
+        "acquired",
+        "bought",
+        "purchased"
+      ],
+      "subject_type": "ORGANIZATION",
+      "object_type": "ORGANIZATION",
+      "cardinality": "event"
+    },
+    "mayor": {
+      "aliases": [
+        "is the mayor of",
+        "mayor",
+        "mayor of"
+      ],
+      "subject_type": "LOCATION",
+      "object_type": "PERSON",
+      "cardinality": "functional"
+    },
+    "population": {
+      "aliases": [
+        "has a population of",
+        "population",
+        "inhabitants"
+      ],
+      "subject_type": "LOCATION",
+      "object_type": "NUMBER",
+      "cardinality": "functional"
+    },
+    "defaultPort": {
+      "aliases": [
+        "uses default port",
+        "default port",
+        "listens on port"
+      ],
+      "subject_type": "SOFTWARE",
+      "object_type": "NUMBER",
+      "cardinality": "functional"
+    },
+    "maxConnections": {
+      "aliases": [
+        "supports maximum connections",
+        "max connections",
+        "maximum connection limit"
+      ],
+      "subject_type": "SOFTWARE",
+      "object_type": "NUMBER",
+      "cardinality": "functional"
+    }
+  },
+  "entity_aliases": {
+    "acme": "Acme Robotics",
+    "acme corp": "Acme Robotics",
+    "acme inc": "Acme Robotics",
+    "acme inc.": "Acme Robotics",
+    "acme robotics inc": "Acme Robotics",
+    "acme robotics inc.": "Acme Robotics",
+    "usa": "United States",
+    "u.s.a.": "United States",
+    "us": "United States",
+    "lumina city": "Lumina",
+    "city of lumina": "Lumina",
+    "orbitdb": "OrbitDB"
+  }
+}
+

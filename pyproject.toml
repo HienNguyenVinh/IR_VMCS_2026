@@ -1,0 +1,16 @@
+[project]
+name = "paper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "hnswlib",
+    "matplotlib",
+    "numpy",
+    "openai>=3.37.0",
+    "pandas",
+    "pytest>=9.1.1",
+    "python-docx",
+    "scikit-learn",
+]

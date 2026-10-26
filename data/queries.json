@@ -1,0 +1,122 @@
+{
+  "queries": [
+    {
+      "id": "q_acme_ceo_2016",
+      "question": "Who is the CEO of Acme Robotics?",
+      "query_time": "2016-05-01",
+      "gold_subject": "Acme Robotics",
+      "gold_predicate": "chiefExecutiveOfficer",
+      "gold_object": "Alice Smith",
+      "expected_status": "Active"
+    },
+    {
+      "id": "q_acme_ceo_2017",
+      "question": "Who was the CEO of Acme Robotics in 2017?",
+      "query_time": "2017-08-15",
+      "gold_subject": "Acme Robotics",
+      "gold_predicate": "chiefExecutiveOfficer",
+      "gold_object": "Alice Smith",
+      "expected_status": "Active"
+    },
+    {
+      "id": "q_acme_ceo_2020",
+      "question": "Who is the CEO of Acme Robotics?",
+      "query_time": "2020-03-01",
+      "gold_subject": "Acme Robotics",
+      "gold_predicate": "chiefExecutiveOfficer",
+      "gold_object": "Bob Johnson",
+      "expected_status": "Active"
+    },
+    {
+      "id": "q_acme_ceo_2021",
+      "question": "Who leads Acme Robotics as chief executive officer?",
+      "query_time": "2021-09-01",
+      "gold_subject": "Acme Robotics",
+      "gold_predicate": "chiefExecutiveOfficer",
+      "gold_object": "Bob Johnson",
+      "expected_status": "Active"
+    },
+    {
+      "id": "q_acme_ceo_2024",
+      "question": "Who is currently the CEO of Acme Robotics?",
+      "query_time": "2024-03-01",
+      "gold_subject": "Acme Robotics",
+      "gold_predicate": "chiefExecutiveOfficer",
+      "gold_object": "Carol Davis",
+      "expected_status": "Active"
+    },
+    {
+      "id": "q_zentech_hq_2020",
+      "question": "Where is the headquarters of Zentech located?",
+      "query_time": "2020-06-01",
+      "gold_subject": "Zentech",
+      "gold_predicate": "headquarters",
+      "gold_object": "Seattle / Austin",
+      "expected_status": "Contested"
+    },
+    {
+      "id": "q_acme_board_2022",
+      "question": "Who are the board members of Acme Robotics?",
+      "query_time": "2022-01-01",
+      "gold_subject": "Acme Robotics",
+      "gold_predicate": "boardMember",
+      "gold_object": "Elena Rostova, Marcus Vance, Sophia Lin",
+      "expected_status": "Active"
+    },
+    {
+      "id": "q_lumina_mayor_2016",
+      "question": "Who was the mayor of Lumina in 2016?",
+      "query_time": "2016-07-01",
+      "gold_subject": "Lumina",
+      "gold_predicate": "mayor",
+      "gold_object": "Arthur Pendelton",
+      "expected_status": "Active"
+    },
+    {
+      "id": "q_lumina_mayor_2019",
+      "question": "Who was the mayor of Lumina in 2019?",
+      "query_time": "2019-05-01",
+      "gold_subject": "Lumina",
+      "gold_predicate": "mayor",
+      "gold_object": "Beatrice Sterling",
+      "expected_status": "Active"
+    },
+    {
+      "id": "q_lumina_mayor_2023",
+      "question": "Who is the mayor of Lumina in 2023?",
+      "query_time": "2023-01-01",
+      "gold_subject": "Lumina",
+      "gold_predicate": "mayor",
+      "gold_object": "Charles Wu",
+      "expected_status": "Active"
+    },
+    {
+      "id": "q_orbitdb_port_2019",
+      "question": "What is the default port for OrbitDB?",
+      "query_time": "2019-04-01",
+      "gold_subject": "OrbitDB",
+      "gold_predicate": "defaultPort",
+      "gold_object": "5432",
+      "expected_status": "Active"
+    },
+    {
+      "id": "q_orbitdb_port_2022",
+      "question": "What is the default port for OrbitDB?",
+      "query_time": "2022-08-01",
+      "gold_subject": "OrbitDB",
+      "gold_predicate": "defaultPort",
+      "gold_object": "7474",
+      "expected_status": "Active"
+    },
+    {
+      "id": "q_orbitdb_conn_2024",
+      "question": "What is the maximum connection limit of OrbitDB?",
+      "query_time": "2024-05-01",
+      "gold_subject": "OrbitDB",
+      "gold_predicate": "maxConnections",
+      "gold_object": "2000",
+      "expected_status": "Active"
+    }
+  ]
+}
+
